@@ -1,7 +1,7 @@
-#Mantra.js
+#What is Mantra
 
-This is a simple html5 game engine for learning purpose, and for fun of course.
+Mantra is a simple html5 game engine for learning purpose, and for fun of course.
 
 #Usage
 
-Mantra is under development
+This project is under development.
